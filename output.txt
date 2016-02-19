@@ -1,0 +1,118 @@
+Initial Permutation: 
+[1, 2, 3, 4]
+Next Permutation
+[1, 2, 4, 3]
+Initial Permutation: 
+[1, 2, 4, 3]
+Next Permutation
+[1, 3, 2, 4]
+Initial Permutation: 
+[1, 3, 2, 4]
+Next Permutation
+[1, 3, 4, 2]
+Initial Permutation: 
+[1, 3, 4, 2]
+Next Permutation
+[1, 4, 2, 3]
+Initial Permutation: 
+[1, 4, 2, 3]
+Next Permutation
+[1, 4, 3, 2]
+Initial Permutation: 
+[1, 4, 3, 2]
+Next Permutation
+[2, 1, 3, 4]
+Initial Permutation: 
+[2, 1, 3, 4]
+Next Permutation
+[2, 1, 4, 3]
+Initial Permutation: 
+[2, 1, 4, 3]
+Next Permutation
+[2, 3, 1, 4]
+Initial Permutation: 
+[2, 3, 1, 4]
+Next Permutation
+[2, 3, 4, 1]
+Initial Permutation: 
+[2, 3, 4, 1]
+Next Permutation
+[2, 4, 1, 3]
+Initial Permutation: 
+[2, 4, 1, 3]
+Next Permutation
+[2, 4, 3, 1]
+Initial Permutation: 
+[2, 4, 3, 1]
+Next Permutation
+[3, 1, 2, 4]
+Initial Permutation: 
+[3, 1, 2, 4]
+Next Permutation
+[3, 1, 4, 2]
+Initial Permutation: 
+[3, 1, 4, 2]
+Next Permutation
+[3, 2, 1, 4]
+Initial Permutation: 
+[3, 2, 1, 4]
+Next Permutation
+[3, 2, 4, 1]
+Initial Permutation: 
+[3, 2, 4, 1]
+Next Permutation
+[3, 4, 1, 2]
+Initial Permutation: 
+[3, 4, 1, 2]
+Next Permutation
+[3, 4, 2, 1]
+Initial Permutation: 
+[3, 4, 2, 1]
+Next Permutation
+[4, 1, 2, 3]
+Initial Permutation: 
+[4, 1, 2, 3]
+Next Permutation
+[4, 1, 3, 2]
+Initial Permutation: 
+[4, 1, 3, 2]
+Next Permutation
+[4, 2, 1, 3]
+Initial Permutation: 
+[4, 2, 1, 3]
+Next Permutation
+[4, 2, 3, 1]
+Initial Permutation: 
+[4, 2, 3, 1]
+Next Permutation
+[4, 3, 1, 2]
+Initial Permutation: 
+[4, 3, 1, 2]
+Next Permutation
+[4, 3, 2, 1]
+Initial Permutation: 
+[4, 3, 2, 1]
+Initial Permutation: 
+[5, 2, 1, 3, 4]
+Next Permutation
+[5, 2, 1, 4, 3]
+Initial Permutation: 
+[10, 9, 8, 7, 6, 5, 4, 3, 1, 2]
+Next Permutation
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Initial Permutation: 
+[9, 10, 8, 7, 6, 5, 4, 3, 2, 1]
+Next Permutation
+[10, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Initial Permutation: 
+[1]
+Next Permutation
+null
+Initial Permutation: 
+[1, 2]
+Next Permutation
+[2, 1]
+Initial Permutation: 
+[2, 1]
+Next Permutation
+null
